@@ -1,1 +1,10 @@
+*/
+Create a program to store and display user profiles for a basic application. Your
+program should store and display one profile that contains the following:
+● User name
+● Age
+● Subscription status
+● User’s location
+● User’s hobbies (at least two)
+
 
