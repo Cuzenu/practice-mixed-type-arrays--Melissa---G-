@@ -18,7 +18,7 @@ console.log(profileArray.hobbies[1]);  // Log 2nd hobby listed
 
 //Task 3: Modify the Profile age and change one hobby
 profileArray.age = 40;  // change age 35 -> 40
-profileArray.hobbies[0] = "fine dining";
+profileArray.hobbies[0] = "fine dining";  // changed hobby fighting crime -> fine dining
 
 
 //Task 4: Print full profile
